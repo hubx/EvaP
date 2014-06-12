@@ -1,3 +1,3 @@
 uses: django
-strictness: veryhigh
+strictness: low
 doc-warnings: no
