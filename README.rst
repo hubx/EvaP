@@ -2,7 +2,7 @@
 ==========================
 
 
-|build|_ |dependencies|
+|build|_ |dependencies| |landscape| 
 
 
 What is EvaP?
@@ -140,5 +140,8 @@ these elements still apply and are not touched by the software license.
 .. |dependencies| image:: https://gemnasium.com/hubx/EvaP.svg
         :alt: Dependency Status
         :target: https://gemnasium.com/hubx/EvaP
+.. |landscape| image:: https://landscape.io/github/hubx/EvaP/master/landscape.png
+                       :target: https://landscape.io/github/hubx/EvaP/master
+                       :alt: Code Health
 .. _build: https://travis-ci.org/fsr-itse/EvaP
 .. _Vagrant: http://www.vagrantup.com/
