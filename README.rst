@@ -137,8 +137,8 @@ these elements still apply and are not touched by the software license.
   THE SOFTWARE.
 
 .. |build| image:: https://travis-ci.org/fsr-itse/EvaP.png
-.. |dependencies| image:: https://gemnasium.com/hubx/EvaP.svg
+.. |dependencies| image:: https://gemnasium.com/fsr-itse/EvaP.svg
         :alt: Dependency Status
-        :target: https://gemnasium.com/hubx/EvaP
+        :target: https://gemnasium.com/fsr-itse/EvaP
 .. _build: https://travis-ci.org/fsr-itse/EvaP
 .. _Vagrant: http://www.vagrantup.com/
